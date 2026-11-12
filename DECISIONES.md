@@ -23,3 +23,8 @@ Propuso sumar las probabilidades cuando varios códigos coinciden, comparar el c
 ## Qué haría con más tiempo
 
 Buscar en el manual un nombre legible para causas sin ficha, como `sonda-anterior`, y dejar por escrito qué significa que las probabilidades de un código no sumen 1 (en el Tiggo, P0300 suma 0,85).
+
+
+## Aclaración
+
+Debido a que no le aclaré a Cursor que no debía completar este archivo, lo hizo y lo dejó asentado en el historial del chat. Pensé en modificar lo que escribió, pero realmente tampoco se me ocurrieron otras cosas que decir o agregar, así que finalmente decidí dejarlo como estaba y no cambiar nada.
